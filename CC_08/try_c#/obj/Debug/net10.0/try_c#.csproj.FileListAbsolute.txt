@@ -1,0 +1,14 @@
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/bin/Debug/net10.0/try_c#
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/bin/Debug/net10.0/try_c#.deps.json
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/bin/Debug/net10.0/try_c#.runtimeconfig.json
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/bin/Debug/net10.0/try_c#.dll
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/bin/Debug/net10.0/try_c#.pdb
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/try_c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/try_c#.AssemblyInfoInputs.cache
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/try_c#.AssemblyInfo.cs
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/try_c#.csproj.CoreCompileInputs.cache
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/try_c#.dll
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/refint/try_c#.dll
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/try_c#.pdb
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/try_c#.genruntimeconfig.cache
+/Users/yuedaiyan/Code_04/LearnC/CC_08/try_c#/obj/Debug/net10.0/ref/try_c#.dll

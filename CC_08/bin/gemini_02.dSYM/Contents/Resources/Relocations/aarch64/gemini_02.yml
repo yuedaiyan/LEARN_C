@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yuedaiyan/Code_04/LearnC/CC_08/bin/gemini_02'
+relocations:     []
+...

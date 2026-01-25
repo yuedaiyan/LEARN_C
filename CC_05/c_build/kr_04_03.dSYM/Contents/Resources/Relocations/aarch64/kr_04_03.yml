@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yuedaiyan/Code/Learn/LearnC/CC_05/c_build/kr_04_03'
+relocations:     []
+...
