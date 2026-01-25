@@ -3,3 +3,5 @@
 c_build/
 .out
 .o
+bin/
+*.dSYM/
