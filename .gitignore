@@ -1,7 +1,24 @@
+# 系统与编辑器
 .DS_Store
 .vscode/
-c_build/
-.out
-.o
-bin/
+.history/
+
+# C/C++ 编译产物
+*.o
+*.out
+*.exe
 *.dSYM/
+build/
+c_build/
+bin/
+
+# Rust 编译产物
+target/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# .NET / C# 产物
+bin/
+obj/
