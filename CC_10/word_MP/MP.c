@@ -334,7 +334,7 @@ int main(void) {
         printf("%d key: %s, value: %d\n", i, my_TM->_iter->_current->key, my_TM->_iter->_current->value);
         my_TM->methods->TM_iter(my_TM);
     }
-    my_TM->methods->TM_iter_del(my_TM->_iter);
+    my_TM->methods->TM_iter_del(my_TM);
 
     printf("\n5. Lookup Test\n");
     printf("Value of 'h': %d\n", my_TM->methods->TM_get(my_TM, "h", -1));
