@@ -2,12 +2,12 @@
 
 This repository contains my coursework and final projects for the **C Programming for Everybody** specialization. It documents my progress in learning C syntax, memory management, and data structures.
 
-## 📚 Resources
+##  Resources
 
 - **Course Video:** [C Programming Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=PaPN51Mm5qQ)
 - **Official Website:** [CC4E Lessons & Assignments](https://www.cc4e.com/lessons)
 
-## 📂 Project Structure
+##  Project Structure
 
 ### Final Projects
 - **`CC_10/word_MP/`**: A project focused on multi-file compilation and word processing logic.
