@@ -41,15 +41,3 @@ This repository contains my coursework and final projects for the **C Programmin
     <div align="center">
         <img src="/CC_11/p3dic_my.jpg" height="150"  alt="p3dic_my.c Method Diagram">
     </div>
-
-### (How to Run `CC_10/word_MP/main.c`)
-Navigate to the project directory and use the following commands:
-
-**Build:**
-```zsh
-clang main.c MP.c -o WORD_MP
-```
-**Run:**
-```zsh
-./WORD_MP
-```
