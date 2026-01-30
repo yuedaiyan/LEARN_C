@@ -10,14 +10,17 @@ This repository contains my coursework and final projects for the **C Programmin
 ##  Project Structure
 
 ### Final Projects
-- **`CC_10/word_MP/`**: A project focused on multi-file compilation and word processing logic.
-![Method Diagram](/CC_10/word_MP/word_MP.jpg)
-<img src="/CC_10/word_MP/word_MP.jpg" width="500"  alt="Method Diagram">
+- **`CC_10/word_MP/main.c`**: A project focused on multi-file compilation and word processing logic.
+<!-- ![Method Diagram](/CC_10/word_MP/word_MP.jpg) -->
+<img src="/CC_10/word_MP/word_MP.jpg" height="150"  alt="word_MP/main.c Method Diagram">
 
 - **`CC_11/`**: Advanced exercises focused on Data Structures:
   - `p1list_my.c`: Linked list implementation.
+  <img src="/CC_11/p1list_my.jpg" height="150"  alt="p1list_my.c Method Diagram">
   - `p1dic_my.c`: Basic dictionary implementation.
+  <img src="/CC_11/p1dic_my.jpg" height="150"  alt="p1dic_my.c Method Diagram">
   - `p3dic_my.c`: Advanced dictionary/hash map exercises.
+  <img src="/CC_11/p3dic_my.jpg" height="150"  alt="p3dic_my.c Method Diagram">
 
 ### How to Run `CC_10/word_MP/main.c`
 Navigate to the project directory and use the following commands:
