@@ -12,7 +12,7 @@ This repository contains my coursework and final projects for the **C Programmin
 ### Final Projects
 - **`CC_10/word_MP/main.c`**: A project focused on multi-file compilation and word processing logic.
     <div align="center">
-        <img src="/CC_10/word_MP/word_MP.jpg" height="150"  alt="word_MP/main.c Method Diagram">
+        <img src="/CC_10/word_MP/word_MP.jpg" height="200"  alt="word_MP/main.c Method Diagram">
     </div>
 
     **How to Run:** Navigate to the project directory and use the following commands:
@@ -29,15 +29,15 @@ This repository contains my coursework and final projects for the **C Programmin
 <!-- - **`CC_11/`**: Advanced exercises focused on Data Structures: -->
 - `CC_11/p1list_my.c`: Linked list implementation.
     <div align="center">
-        <img src="/CC_11/p1list_my.jpg" height="150"  alt="p1list_my.c Method Diagram">
+        <img src="/CC_11/p1list_my.jpg" height="200"  alt="p1list_my.c Method Diagram">
     </div>
 
 - `CC_11/p1dic_my.c`: Basic dictionary implementation.
     <div align="center">
-        <img src="/CC_11/p1dic_my.jpg" height="150"  alt="p1dic_my.c Method Diagram">
+        <img src="/CC_11/p1dic_my.jpg" height="200"  alt="p1dic_my.c Method Diagram">
     </div>
 
 - `CC_11/p3dic_my.c`: Advanced dictionary/hash map exercises.
     <div align="center">
-        <img src="/CC_11/p3dic_my.jpg" height="150"  alt="p3dic_my.c Method Diagram">
+        <img src="/CC_11/p3dic_my.jpg" height="200"  alt="p3dic_my.c Method Diagram">
     </div>
