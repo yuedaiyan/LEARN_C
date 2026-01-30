@@ -15,6 +15,17 @@ This repository contains my coursework and final projects for the **C Programmin
         <img src="/CC_10/word_MP/word_MP.jpg" height="150"  alt="word_MP/main.c Method Diagram">
     </div>
 
+    **How to Run:** Navigate to the project directory and use the following commands:
+    
+    *Build:*
+    ```zsh
+    clang main.c MP.c -o WORD_MP
+    ```
+    *Run:*
+    ```zsh
+    ./WORD_MP
+    ```
+
 <!-- - **`CC_11/`**: Advanced exercises focused on Data Structures: -->
 - `CC_11/p1list_my.c`: Linked list implementation.
     <div align="center">
