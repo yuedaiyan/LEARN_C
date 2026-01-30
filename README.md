@@ -11,6 +11,9 @@ This repository contains my coursework and final projects for the **C Programmin
 
 ### Final Projects
 - **`CC_10/word_MP/`**: A project focused on multi-file compilation and word processing logic.
+![Method Diagram](/CC_10/word_MP/word_MP.jpg)
+<img src="/CC_10/word_MP/word_MP.jpg" width="500"  alt="Method Diagram">
+
 - **`CC_11/`**: Advanced exercises focused on Data Structures:
   - `p1list_my.c`: Linked list implementation.
   - `p1dic_my.c`: Basic dictionary implementation.
