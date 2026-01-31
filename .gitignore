@@ -4,6 +4,7 @@
 .history/
 
 # C/C++ 编译产物
+WORD_MP
 *.o
 *.out
 *.exe

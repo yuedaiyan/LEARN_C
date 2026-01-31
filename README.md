@@ -10,7 +10,7 @@ This repository contains my coursework and final projects for the **C Programmin
 ##  Project Structure
 
 ### Final Projects
-- **`CC_10/word_MP/main.c`**: A project focused on multi-file compilation and word processing logic.
+- **`CC_10/word_MP/main.c`**: A word frequency counter powered by a custom LinkedTreeMap to ensure fast lookups and alphabetical output.
     <div align="center">
         <img src="/CC_10/word_MP/word_MP.jpg" height="200"  alt="word_MP/main.c Method Diagram">
     </div>
@@ -27,17 +27,17 @@ This repository contains my coursework and final projects for the **C Programmin
     ```
 
 <!-- - **`CC_11/`**: Advanced exercises focused on Data Structures: -->
-- `CC_11/p1list_my.c`: Linked list implementation.
+- `CC_11/p1list_my.c`: Python 1 linked list implementation.
     <div align="center">
         <img src="/CC_11/p1list_my.jpg" height="200"  alt="p1list_my.c Method Diagram">
     </div>
 
-- `CC_11/p1dic_my.c`: Basic dictionary implementation.
+- `CC_11/p1dic_my.c`: Python 1 basic dictionary implementation.
     <div align="center">
         <img src="/CC_11/p1dic_my.jpg" height="200"  alt="p1dic_my.c Method Diagram">
     </div>
 
-- `CC_11/p3dic_my.c`: Advanced dictionary/hash map exercises.
+- `CC_11/p3dic_my.c`: Python 3.6 basic dictionary/hash map exercises.
     <div align="center">
         <img src="/CC_11/p3dic_my.jpg" height="200"  alt="p3dic_my.c Method Diagram">
     </div>
