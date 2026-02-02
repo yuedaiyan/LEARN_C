@@ -7,9 +7,9 @@ This repository contains my coursework and final projects for the **C Programmin
 - **Course Video:** [C Programming Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=PaPN51Mm5qQ)
 - **Official Website:** [CC4E Lessons & Assignments](https://www.cc4e.com/lessons)
 
-##  Project Structure
+<!-- ##  Project Structure -->
 
-### Final Projects
+## Final Projects
 - **`CC_10/word_MP/main.c`**: A word frequency counter powered by a custom LinkedTreeMap to ensure fast lookups and alphabetical output.
     <div align="center">
         <img src="/CC_10/word_MP/word_MP.jpg" height="200"  alt="word_MP/main.c Method Diagram">
