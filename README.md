@@ -15,7 +15,7 @@ This repository contains my coursework and final projects for the **C Programmin
 
 <div align="center">
 
-<a href="https://github.com/yuedaiyan/LEARN_C/blob/main/CC_10/word_MP/main.c">
+<a href="https://github.com/yuedaiyan/LEARN_C/blob/main/CC_10/word_MP">
 <img src="/CC_10/word_MP/word_MP.jpg" height="200"  alt="word_MP/main.c Method Diagram">
 <a>
 
@@ -23,7 +23,7 @@ This repository contains my coursework and final projects for the **C Programmin
 
 <div align="center"> 
 
-[View main.c](https://github.com/yuedaiyan/LEARN_C/blob/main/CC_10/word_MP/main.c)
+[View word_MP](https://github.com/yuedaiyan/LEARN_C/blob/main/CC_10/word_MP)
 
 </div>
 
@@ -34,6 +34,7 @@ cd CC_10/word_MP
 # Build & Run
 clang main.c MP.c -o WORD_MP && ./WORD_MP
 ```
+<br>
 <br>
 
 <!-- - **`CC_11/`**: Advanced exercises focused on Data Structures: -->
@@ -64,6 +65,7 @@ cd CC_11
 mkdir -p bin && clang p1list_my.c -o bin/p1list_my && ./bin/p1list_my
 ```
 <br>
+<br>
 
 
 - `CC_11/p1dic_my.c`: Python 1 basic dictionary implementation.
@@ -92,6 +94,7 @@ cd CC_11
 mkdir -p bin && clang p1dic_my.c -o bin/p1dic_my && ./bin/p1dic_my
 ```
 <br>
+<br>
 
 
 - `CC_11/p3dic_my.c`: Python 3.6 basic dictionary/hash map exercises.
@@ -117,6 +120,5 @@ mkdir -p bin && clang p1dic_my.c -o bin/p1dic_my && ./bin/p1dic_my
 cd CC_11
 
 # Build & Run
-cd CC_11 && mkdir -p bin && clang p3dic_my.c -o bin/p3dic_my && ./bin/p3dic_my
+mkdir -p bin && clang p3dic_my.c -o bin/p3dic_my && ./bin/p3dic_my
 ```
-<br>
