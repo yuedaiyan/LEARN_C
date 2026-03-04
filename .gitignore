@@ -23,3 +23,6 @@ __pycache__/
 # .NET / C# 产物
 bin/
 obj/
+
+# README.md 输出pdf用
+pandoc-github-html.yaml
